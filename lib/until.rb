@@ -1,6 +1,11 @@
-def using_until
-  levitation_force = 6
-  #your code here
-    
-end
+ def unsing_until
+ 
+ levitation force  = 6
+ 
+puts.phrase = "Wingardium Leviosa"
 
+phrase +=1
+
+until.phrase <= 10
+
+end 
