@@ -1,7 +1,5 @@
-def using_while
-  levitation_force = 6
-	
-  #your code here
+leviation_force
+while leviation_force=6
+leviation_force+=1
+  puts "Wingardium Leviosa"
 end
-
-
