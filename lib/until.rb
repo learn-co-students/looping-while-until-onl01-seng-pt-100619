@@ -1,6 +1,5 @@
-def using_until
-  levitation_force = 6
-  #your code here
-    
+leviation_force
+until leviation_force == 10
+10.times do
+puts "Wingardium Leviosa
 end
-
